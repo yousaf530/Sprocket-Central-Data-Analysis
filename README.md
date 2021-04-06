@@ -53,4 +53,4 @@ The process followed in Module 2 are available in Module_2.ppt.
 
 After Exploration of Customer Data and development of model, a Dashboard and summary report is generated to keep track of existing and to target new potential customers based on existing data.
 
-Google Data Studio Dashboard: <a href='https://datastudio.google.com/u/0/reporting/6c9248b0-ab9c-4fb6-b300-7fb65e31aa00/page/yYs8B' target='_blank'>Link</a>
+Google Data Studio Dashboard: <a href='https://datastudio.google.com/u/0/reporting/6c9248b0-ab9c-4fb6-b300-7fb65e31aa00/page/yYs8B' target="_blank">Link</a>
